@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">peopleApiRequests</string>
+    <string name="location">Enter location</string>
+    <string name="name">Enter name</string>
+    <string name="add_person">Add Person</string>
+    <string name="update_delete">Update/Delete</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+</resources>
